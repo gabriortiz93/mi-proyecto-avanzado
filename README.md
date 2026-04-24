@@ -1,0 +1,1 @@
+[![Validar Script](https://github.com/gabriortiz93/mi-proyecto-avanzado/actions/workflows/validate.yml/badge.svg)](https://github.com/gabriortiz93/mi-proyecto-avanzado/actions/workflows/validate.yml)
